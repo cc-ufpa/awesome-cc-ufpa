@@ -20,6 +20,12 @@ Assignments and notes related to specific subjects.
 
 Generic repositories names omitted.
 
+**Data structures:**
+
+ - [João Davi](https://github.com/JoaoDavi2302/Analise-de-algoritimos-de-ordena-o). Sorting algorithms (bubble, insert and select) tests in C.
+
+ - [Mateus Barreto](https://codeberg.org/seruna/estrutura-de-dados). Sorting algorithms tests in Java.
+
 **Formal languages and automata:**
 
  - [Arthur Negrão, Kamila Sarmanho & Italo Cavalcante - Interpretador-Aritmetico-Python](https://github.com/Arthur-Negrao-Smith/Interpretador-Aritmetico-Python). A calculator with a web frontend interface and a Python backend.
